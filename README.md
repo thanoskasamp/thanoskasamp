@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=thanoskasamp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Projects
+## Projects
 An overview of some of the projects I have worked on can be found at:  
 [thanoskasamp.github.io](https://thanoskasamp.github.io)
 
