@@ -1,28 +1,27 @@
-<h1 align="center">Hi, I'm Thanos</h1>
-<p align="center">
-  <strong>Geospatial Data Analyst • GIS Developer • Forest Specialist</strong>
-</p>
+<h1 align="center">Hi 👋, I'm Thanos</h1>
 
 <p align="center">
-  Reach me at: <a href="mailto:thanoskasamp@gmail.com">thanoskasamp@gmail.com</a>  
+  <strong>Geospatial Data Analyst • GIS Automation • Forest Specialist</strong>
 </p>
 
+<!-- Profile views badge -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/athanasios-kasampalis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Athanasios%20Kasampalis-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=thanoskasamp&label=Profile%20views&color=0e75b6&style=flat" alt="thanoskasamp" />
 </p>
+
+- 🚀 Check out my projects at [**thanoskasamp.github.io**](https://thanoskasamp.github.io/)  
+- 📫 How to reach me: [**thanoskasamp@gmail.com**](mailto:thanoskasamp@gmail.com)
 
 ---
 
-## <img src="https://img.icons8.com/emoji/48/000000/globe-showing-europe-africa.png" width="30" /> Projects
-
-An overview of some of the projects I have worked on can be found at:  
-[**thanoskasamp.github.io**](https://thanoskasamp.github.io/)
+### Connect with me:
+<a href="https://www.linkedin.com/in/athanasios-kasampalis" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Athanasios%20Kasampalis-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 ---
 
-## Languages and Tools
+### Languages and Tools:
 
 <p>
   <!-- Python -->
