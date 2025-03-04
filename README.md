@@ -9,10 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=thanoskasamp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🚀 Check out my projects at [**thanoskasamp.github.io**](https://thanoskasamp.github.io/)
-
-**Connect with me:**  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/athanasios-kasampalis/)
+### Projects
+An overview of some of the projects I have worked on can be found at:  
+[thanoskasamp.github.io](https://thanoskasamp.github.io)
 
 ### Languages and Tools:
 <p>
