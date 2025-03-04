@@ -4,25 +4,17 @@
   <strong>Geospatial Data Analyst • GIS Automation • Forest Specialist</strong>
 </p>
 
-<!-- Profile views badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanoskasamp&label=Profile%20views&color=0e75b6&style=flat" alt="thanoskasamp" />
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=thanoskasamp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🚀 Check out my projects at [**thanoskasamp.github.io**](https://thanoskasamp.github.io/)  
-- 📫 How to reach me: [**thanoskasamp@gmail.com**](mailto:thanoskasamp@gmail.com)
+- 🚀 Check out my projects at [**thanoskasamp.github.io**](https://thanoskasamp.github.io/)
 
----
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/athanasios-kasampalis" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Athanasios%20Kasampalis-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
----
+**Connect with me:**  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/athanasios-kasampalis/)
 
 ### Languages and Tools:
-
 <p>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -42,14 +34,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
-
-<div align="center">
-  
-  ### Most Used Languages
+<p align="center">
+  <!-- Side-by-side stats -->
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanoskasamp&show_icons=true&layout=compact" alt="Most Used Languages" />
-
-  ### Thanos' GitHub Stats
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=thanoskasamp&show_icons=true&theme=default" alt="Thanos' GitHub Stats" />
-  
-</div>
+</p>
